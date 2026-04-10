@@ -28,7 +28,7 @@ public class Main {
 		int ataquePersonaje = 0;
 		int bonusArma = 0;
 
-		String arma1 = "Espada"; // +1
+		String arma1 = "Pistola"; // +1
 		String arma2 = "Hacha"; // +4
 		String arma3 = "Báculo"; // +5
 		String arma4 = "Jabalina"; // +2
