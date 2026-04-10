@@ -18,6 +18,9 @@ public class Main {
 		int numeroSecreto = 67;
 		
 		int suma = 300;
+		
+		
+		//comentario nuevo
 
 		String clase;
 		String armaPrincipal;
