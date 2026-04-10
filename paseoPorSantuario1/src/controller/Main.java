@@ -16,6 +16,8 @@ public class Main {
 		int numBatallas = 3;
 		
 		int numeroSecreto = 67;
+		
+		int suma = 300;
 
 		String clase;
 		String armaPrincipal;
