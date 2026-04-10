@@ -31,11 +31,9 @@ public class Main {
 		int ataquePersonaje = 0;
 		int bonusArma = 0;
 
-<<<<<<< HEAD
+
 		String arma1 = "CetroMagico"; // +1
-=======
-		String arma1 = "Pistola"; // +1
->>>>>>> origin/main
+		String arma8 = "Pistola"; // +1
 		String arma2 = "Hacha"; // +4
 		String arma3 = "Báculo"; // +5
 		String arma4 = "Jabalina"; // +2
