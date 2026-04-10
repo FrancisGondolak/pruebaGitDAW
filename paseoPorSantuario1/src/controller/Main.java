@@ -14,6 +14,10 @@ public class Main {
 		int respuesta = 0;
 		int numeroAleatorio;
 		int numBatallas = 3;
+		
+		int numeroSecreto = 67;
+		
+		int suma = 300;
 
 		String clase;
 		String armaPrincipal;
